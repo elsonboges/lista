@@ -1,4 +1,4 @@
-#XTM3U
+#EXTM3U
 #EXTINF:-1 tvg-logo="http://p6.vc/1" group-title="Canais | Premiere",Premiere 2 FHD
 http://pfsv.io:80/0031547772/0439/525
 #EXTINF:-1 tvg-logo="http://p6.vc/1" group-title="Canais | Premiere",Premiere 2 FHD [H265]
@@ -55,3 +55,5 @@ http://pfsv.io:80/0031547772/0439/524
 http://pfsv.io:80/0031547772/0439/30287
 #EXTINF:-1 tvg-logo="http://p6.vc/1" group-title="Canais | Premiere",Premiere Clubes HD
 http://pfsv.io:80/0031547772/0439/537
+#EXTINF:-1 tvg-logo="http://p6.vc/1" group-title="Canais | Premiere",Premiere Clubes SD
+http://pfsv.io:80/0031547772/0439/544
