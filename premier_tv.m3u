@@ -57,3 +57,37 @@ http://pfsv.io:80/0031547772/0439/30287
 http://pfsv.io:80/0031547772/0439/537
 #EXTINF:-1 tvg-logo="http://p6.vc/1" group-title="Canais | Premiere",Premiere Clubes SD
 http://pfsv.io:80/0031547772/0439/544
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/hbomax.png" group-title="Canais | HBO Max [Champions League]",HBO Max 1
+http://pfsv.io:80/0031547772/0439/92846
+#EXTINF:-1 tvg-logo="" group-title="Canais | HBO Max [Champions League]",HBO MAX 1 [Alter2]
+http://pfsv.io:80/0031547772/0439/108974
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/hbomax.png" group-title="Canais | HBO Max [Champions League]",HBO Max 1 [Alter]
+http://pfsv.io:80/0031547772/0439/102003
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/hbomax.png" group-title="Canais | HBO Max [Champions League]",HBO Max 2
+http://pfsv.io:80/0031547772/0439/92845
+#EXTINF:-1 tvg-logo="" group-title="Canais | HBO Max [Champions League]",HBO MAX 2 [Alter2]
+http://pfsv.io:80/0031547772/0439/108975
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/hbomax.png" group-title="Canais | HBO Max [Champions League]",HBO Max 2 [Alter]
+http://pfsv.io:80/0031547772/0439/102004
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/hbomax.png" group-title="Canais | HBO Max [Champions League]",HBO Max 3
+http://pfsv.io:80/0031547772/0439/92844
+#EXTINF:-1 tvg-logo="" group-title="Canais | HBO Max [Champions League]",HBO MAX 3 [Alter2]
+http://pfsv.io:80/0031547772/0439/108976
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/hbomax.png" group-title="Canais | HBO Max [Champions League]",HBO Max 3 [Alter]
+http://pfsv.io:80/0031547772/0439/102005
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/hbomax.png" group-title="Canais | HBO Max [Champions League]",HBO Max 4
+http://pfsv.io:80/0031547772/0439/92843
+#EXTINF:-1 tvg-logo="" group-title="Canais | HBO Max [Champions League]",HBO MAX 4 [Alter2]
+http://pfsv.io:80/0031547772/0439/108977
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/hbomax.png" group-title="Canais | HBO Max [Champions League]",HBO Max 4 [Alter]
+http://pfsv.io:80/0031547772/0439/102006
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/hbomax.png" group-title="Canais | HBO Max [Champions League]",HBO Max 5
+http://pfsv.io:80/0031547772/0439/92842
+#EXTINF:-1 tvg-logo="" group-title="Canais | HBO Max [Champions League]",HBO MAX 5 [Alter2]
+http://pfsv.io:80/0031547772/0439/108978
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/hbomax.png" group-title="Canais | HBO Max [Champions League]",HBO Max 6
+http://pfsv.io:80/0031547772/0439/92841
+#EXTINF:-1 tvg-logo="http://p6.vc/X" group-title="Canais | HBO",HBO Mundi FHD
+http://pfsv.io:80/0031547772/0439/467
+#EXTINF:-1 tvg-logo="http://p6.vc/X" group-title="Canais | HBO",HBO Mundi FHD [H265]
+http://pfsv.io:80/0031547772/0439/30239
