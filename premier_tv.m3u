@@ -522,3 +522,18 @@ http://pfsv.io:80/0031547772/0439/92841
 http://pfsv.io:80/0031547772/0439/467
 #EXTINF:-1 tvg-logo="http://p6.vc/X" group-title="Canais | HBO",HBO Mundi FHD [H265]
 http://pfsv.io:80/0031547772/0439/30239
+#EXTINF:-1 tvg-logo="http://p6.vc/5" group-title="Canais | SporTV",[PT] SPORT TV + FHD
+http://pfsv.io:80/0031547772/0439/65151
+#EXTINF:-1 tvg-logo="http://p6.vc/5" group-title="Canais | SporTV",[PT] SPORT TV NBA FHD
+http://pfsv.io:80/0031547772/0439/65152
+#EXTINF:-1 tvg-logo="" group-title="Canais | Esportes [Internacional]",[PT] Sporting TV HD
+http://pfsv.io:80/0031547772/0439/58182
+#EXTINF:-1 tvg-logo="http://p6.vc/5" group-title="Canais | SporTV",[PT] SporTV 2 FHD
+http://pfsv.io:80/0031547772/0439/65154
+#EXTINF:-1 tvg-logo="http://p6.vc/5" group-title="Canais | SporTV",[PT] SporTV 3 FHD
+http://pfsv.io:80/0031547772/0439/65155
+#EXTINF:-1 tvg-logo="http://p6.vc/5" group-title="Canais | SporTV",[PT] SporTV 4 FHD
+http://pfsv.io:80/0031547772/0439/65156
+#EXTINF:-1 tvg-logo="http://p6.vc/5" group-title="Canais | SporTV",[PT] SporTV 5 FHD
+http://pfsv.io:80/0031547772/0439/65240
+#EXTINF:-1 tvg-logo="http://p6.vc/5" group-title="Canais | SporTV",[PT] SporTV FHD
